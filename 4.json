@@ -1,0 +1,13 @@
+{
+	"firstName": "Barry",
+	"lastName": "Allen",
+	"preferredName": "The Flash",
+	"email": "barryallen@starlabs.net",
+	"phoneNumber": "417-232-7848",
+	"city": "Central City",
+	"state": "MO",
+	"zip": "64801",
+	"lat": "37.0856",
+	"lng": "-94.5836",
+	"favoriteHobby": "Running"
+}
